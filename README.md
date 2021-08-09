@@ -1,4 +1,4 @@
-#### contains_opts
+# contains_opts
 
 > A plugin for [Oh My Fish](https://www.github.com/oh-my-fish/oh-my-fish).
 
