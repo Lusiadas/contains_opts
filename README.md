@@ -40,7 +40,3 @@ Display bookmarks when option `-s/--save` is present.
 omf repositories add https://gitlab.com/argonautica/argonautica 
 omf install contains_opts
 ```
-
----
-
-Ⓐ Made in Anarchy. No wage slaves were economically coerced into the making of this work.
